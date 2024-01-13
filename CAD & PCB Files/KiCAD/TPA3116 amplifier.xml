@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\dinod\OneDrive\Documents\KiCad\TPA3116 amplifier\TPA3116 amplifier.kicad_sch</source>
+    <date>1.10.2023. 15:49:13</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TPA3116 amplifier.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.68</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71de09d8-c7aa-4b39-aa0f-cb864e079433</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.68</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4615c31-7c28-410b-b8b6-215743dcdd73</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.68</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b50e4708-daf3-4418-9ce3-54be46c44662</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.68</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f0ced1d-100c-47e6-8ec1-fbfdf8096b36</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aad8b2d9-80e4-463e-9e92-d61aefe103f0</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e31bb9bc-371d-4053-ab6a-b96c33fc2192</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>470u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7af3224-f6e0-4f38-8afd-d97a3bbb72bf</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>470u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d1fae2c-2554-4374-b126-4711a86e8ad0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>968c0fb4-6ad8-497e-87b3-e04a2798866d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ad746d3-b151-4081-9716-f05cc5f15457</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57a1dfe3-5741-4517-a623-6117be271fe6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>470u</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88db8ab2-575c-4081-9618-e1830fb2bcaa</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>470u</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a7d176-31e7-44a5-8dd6-3ea4a967d5ee</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc5d99e5-baec-466e-af44-7d042b271a4b</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.22</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e473a26b-7960-4483-a142-5753a2847a25</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.22</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccf11f54-f918-40ce-b930-966cb1b47662</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.22</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcf80ce2-40c0-4375-b4c4-37ae395125e7</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.22</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4a9140a-db93-4d41-9f49-b253a004d906</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.68u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e57083b1-701b-4cf9-b24b-4c22e617dda9</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.68u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50a856b3-c4c9-4bf0-9272-db7919aff352</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21d34ddf-4185-4faa-b9f5-cd2234066384</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f8eb3ad-40bf-49e6-a515-70b306565ccf</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de2aab31-3b98-497e-824d-49d4b6be105d</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>850e7f66-16ac-46c0-9efb-4b58c520b875</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c0b8b18-aef5-4b32-b048-83806b4820ce</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.68u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69cfa7ba-519a-4674-8641-019cb9f87407</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8088c899-92fb-4edc-afcf-4a34aab5b39f</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.68u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd9ff55b-2a19-4e3e-a20c-bfdc15764fdf</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>1n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ae3a1be-c1c0-41fc-83cc-16fb0b674610</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>10n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acb71a47-a57a-46de-82b9-e70a65dbc2ec</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TPA3116D2DADR</value>
+      <footprint>SOP65P810X120-33N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tpa3116d2</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPA3116D2DADR</field>
+        <field name="Mouser Part Number">595-TPA3116D2DADR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2DADR?qs=3AcK5DacLbpIP1YDOj0hAg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TPA3116D2DADR" description="50-W Stereo (BTL) Class-D Audio Amp w/ SpeakerGuard"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="595-TPA3116D2DADR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2DADR?qs=3AcK5DacLbpIP1YDOj0hAg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPA3116D2DADR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="50-W Stereo (BTL) Class-D Audio Amp w/ SpeakerGuard"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188da05d-fcda-47ff-8181-194767dd0324</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Pin</value>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3d48f5a-d8e5-438b-8c41-f1d5bef54490</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df169d5-a2fd-4fab-9d83-22ee3187e16c</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10u</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c0b39a0-e56d-48f0-b433-beebdf9d310f</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>10u</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>191406a7-9a1c-4272-93fb-77adbcfc9ff6</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>10u</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d38ff855-ccc6-44a9-a0c6-015889989baa</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>10u</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b0d0de-3dfd-43a7-9dc1-0cf3da302629</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.6K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ad2c1dd-6823-4643-a44e-fb4ea73c8c63</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6435b564-c49e-4964-a6a7-a0335548292b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66554bde-5439-45d6-8279-3d6112d60af2</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b43f2922-4d77-4e5d-9063-34e115eb1e18</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>3.3</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19980a95-f310-4dfb-a868-0b5f474100d2</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3.3</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>798bdb79-e968-4dda-945c-5cc18c1ffb9d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>3.3</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2fb1ff6-53cc-4c17-bc6d-414c04a991e8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>3.3</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bc88f35-0d18-43a3-b566-671714d646e9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3.3</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TPA3116 amplifier.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>650a78d4-4330-42fc-9744-39f9489acaf6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TPA3116D2DADR">
+      <description>50-W Stereo (BTL) Class-D Audio Amp w/ SpeakerGuard</description>
+      <docs>http://www.ti.com/lit/gpn/tpa3116d2</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TPA3116D2DADR</field>
+        <field name="Footprint">SOP65P810X120-33N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tpa3116d2</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">595-TPA3116D2DADR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2DADR?qs=3AcK5DacLbpIP1YDOj0hAg%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPA3116D2DADR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MODSEL" type="passive"/>
+        <pin num="2" name="SDZ" type="passive"/>
+        <pin num="3" name="FAULTZ" type="passive"/>
+        <pin num="4" name="RINP" type="passive"/>
+        <pin num="5" name="RINN" type="passive"/>
+        <pin num="6" name="PLIMIT" type="passive"/>
+        <pin num="7" name="GVDD" type="passive"/>
+        <pin num="8" name="GAIN/SLV" type="passive"/>
+        <pin num="9" name="GND_1" type="passive"/>
+        <pin num="10" name="LINP" type="passive"/>
+        <pin num="11" name="LINN" type="passive"/>
+        <pin num="12" name="MUTE" type="passive"/>
+        <pin num="13" name="AM2" type="passive"/>
+        <pin num="14" name="AM1" type="passive"/>
+        <pin num="15" name="AM0" type="passive"/>
+        <pin num="16" name="SYNC" type="passive"/>
+        <pin num="17" name="AVCC" type="passive"/>
+        <pin num="18" name="PVCC_1" type="passive"/>
+        <pin num="19" name="PVCC_2" type="passive"/>
+        <pin num="20" name="BSNL" type="passive"/>
+        <pin num="21" name="OUTNL" type="passive"/>
+        <pin num="22" name="GND_2" type="passive"/>
+        <pin num="23" name="OUTPL" type="passive"/>
+        <pin num="24" name="BSPL" type="passive"/>
+        <pin num="25" name="GND_3" type="passive"/>
+        <pin num="26" name="BSNR" type="passive"/>
+        <pin num="27" name="OUTNR" type="passive"/>
+        <pin num="28" name="GND_4" type="passive"/>
+        <pin num="29" name="OUTPR" type="passive"/>
+        <pin num="30" name="BSPR" type="passive"/>
+        <pin num="31" name="PVCC_3" type="passive"/>
+        <pin num="32" name="PVCC_4" type="passive"/>
+        <pin num="33" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/dinod/OneDrive/Documents/KiCad/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+24V">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="17" pinfunction="AVCC" pintype="passive"/>
+      <node ref="IC1" pin="18" pinfunction="PVCC_1" pintype="passive"/>
+      <node ref="IC1" pin="19" pinfunction="PVCC_2" pintype="passive"/>
+      <node ref="IC1" pin="31" pinfunction="PVCC_3" pintype="passive"/>
+      <node ref="IC1" pin="32" pinfunction="PVCC_4" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/FAULTZ">
+      <node ref="IC1" pin="2" pinfunction="SDZ" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="FAULTZ" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/LINN">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="LINN" pintype="passive"/>
+    </net>
+    <net code="4" name="/LINP">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="LINP" pintype="passive"/>
+    </net>
+    <net code="5" name="/LOUT+">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/LOUT-">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/MUTE">
+      <node ref="IC1" pin="12" pinfunction="MUTE" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/OUTNL">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="21" pinfunction="OUTNL" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/OUTNR">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="27" pinfunction="OUTNR" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/OUTPL">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="23" pinfunction="OUTPL" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/OUTPR">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="29" pinfunction="OUTPR" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/RINN">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="RINN" pintype="passive"/>
+    </net>
+    <net code="13" name="/RINP">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="RINP" pintype="passive"/>
+    </net>
+    <net code="14" name="/ROUT+">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/ROUT-">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="MODSEL" pintype="passive"/>
+      <node ref="IC1" pin="13" pinfunction="AM2" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="AM1" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="AM0" pintype="passive"/>
+      <node ref="IC1" pin="22" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC1" pin="25" pinfunction="GND_3" pintype="passive"/>
+      <node ref="IC1" pin="28" pinfunction="GND_4" pintype="passive"/>
+      <node ref="IC1" pin="33" pinfunction="EP" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="GND_1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="LIN+">
+      <node ref="C1" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="LIN-">
+      <node ref="C2" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(IC1-BSNL)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="20" pinfunction="BSNL" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(IC1-BSNR)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="26" pinfunction="BSNR" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(IC1-BSPL)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="24" pinfunction="BSPL" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(IC1-BSPR)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="30" pinfunction="BSPR" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(IC1-GAIN{slash}SLV)">
+      <node ref="IC1" pin="8" pinfunction="GAIN/SLV" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(IC1-GVDD)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="6" pinfunction="PLIMIT" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="GVDD" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J1-Pin_2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="RIN+">
+      <node ref="C3" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="RIN-">
+      <node ref="C4" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(IC1-SYNC-Pad16)">
+      <node ref="IC1" pin="16" pinfunction="SYNC" pintype="passive"/>
+    </net>
+  </nets>
+</export>
